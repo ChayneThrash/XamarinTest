@@ -1,0 +1,14 @@
+C:\Users\Chayne\Documents\Projects\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.dll
+C:\Users\Chayne\Documents\Projects\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.pdb
+C:\Users\Chayne\Documents\Projects\HelloWorld2\HelloWorld2\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Chayne\Documents\Projects\HelloWorld2\HelloWorld2\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Chayne\Documents\Projects\HelloWorld2\HelloWorld2\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Chayne\Documents\Projects\HelloWorld2\HelloWorld2\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Chayne\Documents\Projects\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.csprojResolveAssemblyReference.cache
+C:\Users\Chayne\Documents\Projects\HelloWorld2\HelloWorld2\obj\Debug\MainPage.xaml.g.cs
+C:\Users\Chayne\Documents\Projects\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.dll
+C:\Users\Chayne\Documents\Projects\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.pdb
+C:\Users\Chayne\Documents\Projects\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.dll.mdb
+C:\Users\Chayne\Documents\Projects\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.dll.mdb
+C:\Users\Chayne\Documents\Projects\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.dll.mdb
+C:\Users\Chayne\Documents\Projects\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.dll.mdb

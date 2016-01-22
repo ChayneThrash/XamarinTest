@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="HelloWorld2\HelloWorld2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid\MainActivity.cs">
+    <Files>
+      <File FileName="HelloWorld2\HelloWorld2.cs" Line="28" Column="2" />
+      <File FileName="HelloWorld2\MainPage.xaml" Line="4" Column="32" />
+      <File FileName="HelloWorld2\MainPage.xaml.cs" Line="41" Column="2" />
+      <File FileName="HelloWorld2\PhoneTranslator.cs" Line="51" Column="2" />
+      <File FileName="Droid\MainActivity.cs" Line="11" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HelloWorld2.Droid />
+</Properties>
